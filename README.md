@@ -1,18 +1,137 @@
-# 💫 About Me:
-I’m currently working on: "Enhancing my SQL skills and exploring Data Visualization."<br>👯 I’m looking to collaborate on: "Interesting Data Analytics and Business Intelligence projects."<br>🌱 I’m currently learning: "Power BI and Python for Data Science."<br>💬 Ask me about: "SQL Queries, Data Cleaning, and the Pizza Sales Analysis project."<br>⚡ Fun fact: "I believe data tells stories that numbers alone can't!"
+<div align="center">
 
+```
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║        SELECT * FROM world WHERE person = 'Pritam'       ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/pritamverma83599-ux) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/pritam-verma-02721531a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pritam.verma83599@gmail.com) 
+# Pritam Verma
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pritamverma83599-ux&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=pritamverma83599-ux&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pritamverma83599-ux&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+**Data Analyst · BI Developer · Storyteller through Numbers**
+
+*"Data doesn't just inform decisions — it narrates possibilities."*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pritam-verma-02721531a)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/pritamverma83599-ux)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pritam.verma83599@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=pritamverma83599-ux&style=flat-square&color=0A66C2&label=Profile+Views)](https://github.com/pritamverma83599-ux)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=pritamverma83599-ux&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About
+
+I'm a data analyst passionate about transforming raw datasets into clear, compelling narratives. My work sits at the intersection of **SQL engineering**, **business intelligence**, and **visual storytelling** — turning complex data into decisions that matter.
+
+Currently deepening expertise in **Power BI** and **Python for Data Science**, with a focus on building dashboards and pipelines that don't just display data, but drive action.
+
+---
+
+## Core Competencies
+
+```
+Data Analysis & Querying    ████████████████████  Expert
+SQL (MySQL · PostgreSQL)    ██████████████████░░  Advanced
+Data Visualization          ████████████████░░░░  Advanced
+Python (Pandas · NumPy)     ██████████████░░░░░░  Intermediate
+Power BI                    ████████████░░░░░░░░  Intermediate
+Cloud Platforms             ██████████░░░░░░░░░░  Intermediate
+```
+
+---
+
+## Tech Stack
+
+### 🗄️ Data & Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+
+### 📊 Analytics & Visualization
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+
+### 🐍 Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=flat-square&logo=docker&logoColor=white)
+
+### 🛠️ Tools & Workflow
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0A0FFF?style=flat-square&logo=jira&logoColor=white)
+
+---
+
+## Featured Project
+
+### 🍕 Pizza Sales Analysis
+> *An end-to-end data analysis project uncovering sales patterns, customer behavior, and revenue drivers in a pizza restaurant chain.*
+
+**Stack:** `SQL` · `Power BI` · `Python` · `Pandas`
+
+**Key Insights Delivered:**
+- Identified top-performing pizza categories and peak order windows
+- Built dynamic dashboards for real-time KPI tracking
+- Cleaned and normalized multi-source transactional data
+- Delivered actionable recommendations improving inventory planning
+
+📌 *Ask me anything about this project — SQL queries, cleaning approach, or dashboard design.*
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pritamverma83599-ux&theme=dark&hide_border=true&include_all_commits=false&count_private=false&show_icons=true&title_color=4479A1&icon_color=F2C811&text_color=ffffff&bg_color=0d1117)
+
+![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=pritamverma83599-ux&theme=dark&hide_border=true&ring=4479A1&fire=F2C811&currStreakLabel=4479A1&background=0d1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pritamverma83599-ux&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact&title_color=4479A1&text_color=ffffff&bg_color=0d1117)
+
+</div>
+
+---
+
+## Currently
+
+```python
+status = {
+    "building"    : "Advanced SQL skills & Data Visualization projects",
+    "learning"    : ["Power BI", "Python for Data Science"],
+    "open_to"     : "Data Analytics & Business Intelligence collaborations",
+    "ask_me_about": ["SQL Queries", "Data Cleaning", "Pizza Sales Analysis"],
+    "belief"      : "Every dataset is a story waiting to be told."
+}
+```
+
+---
+
+<div align="center">
+
+**Let's connect and build something data-driven.**
+
+*Open to collaborations, freelance projects, and conversations about analytics.*
+
+</div>
