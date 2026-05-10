@@ -1,13 +1,5 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║        SELECT * FROM world WHERE person = 'Pritam'       ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
-
 # Pritam Verma
 
 **Data Analyst · BI Developer · Storyteller through Numbers**
@@ -48,10 +40,7 @@ Cloud Platforms             ██████████░░░░░░░�
 
 ### 🗄️ Data & Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+
 
 ### 📊 Analytics & Visualization
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
@@ -62,9 +51,6 @@ Cloud Platforms             ██████████░░░░░░░�
 
 ### 🐍 Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 ### ☁️ Cloud & Infrastructure
@@ -97,20 +83,6 @@ Cloud Platforms             ██████████░░░░░░░�
 - Delivered actionable recommendations improving inventory planning
 
 📌 *Ask me anything about this project — SQL queries, cleaning approach, or dashboard design.*
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pritamverma83599-ux&theme=dark&hide_border=true&include_all_commits=false&count_private=false&show_icons=true&title_color=4479A1&icon_color=F2C811&text_color=ffffff&bg_color=0d1117)
-
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=pritamverma83599-ux&theme=dark&hide_border=true&ring=4479A1&fire=F2C811&currStreakLabel=4479A1&background=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pritamverma83599-ux&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact&title_color=4479A1&text_color=ffffff&bg_color=0d1117)
-
-</div>
 
 ---
 
